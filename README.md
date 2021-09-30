@@ -1,0 +1,3 @@
+# SimpleFraction
+
+Fichier de documentation
