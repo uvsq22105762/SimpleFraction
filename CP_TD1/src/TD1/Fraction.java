@@ -26,6 +26,7 @@ public class Fraction {
 		if(denominateur % numerateur == 0) {
 			primeBetweenThem = false;
 		}
+		
 		return primeBetweenThem;
 	}
 
